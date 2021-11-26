@@ -1,0 +1,4 @@
+No privacy information is collected from the application at any time. 
+It would be a complete abomination for any app trying to protect its users to do so.
+Only the selections and keys entered into the app fields are recorded into the keychain metadata 
+to generate secure one way hashes as selected and requested of the user, and those are removed once the entry itself is removed.
